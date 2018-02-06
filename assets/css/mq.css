@@ -1,0 +1,84 @@
+@media screen and (max-width:990px) {  
+    #BigContainer{
+        width: 100%;
+    }
+
+    #header {
+        width: 100%;
+    }
+
+    #body {
+        width: 100%;
+    }
+
+    #headerborder {
+        width: 100%;
+    }
+
+    #footer {
+        width: 100%;
+    }
+
+    #footerborder {
+        width: 100%;
+    }
+
+    #logo {
+        width: 15%;
+    }
+    a{
+        font-size: 12;
+    }
+
+    #importantlinks {
+        width: 25%;
+    }
+
+    #leftbox {
+        width:40%;  
+    }
+
+    #rightbox {
+        width:35%;
+    }
+
+    #leftTopbox {
+        width: 75%;
+    }
+
+    #leftTopborder {
+        width: 75%;
+    }
+
+    #Mebox {
+        width: 75%;
+    }
+
+    .img1 {
+        width: 50%;
+    }
+ 
+    
+    #cwmbox {
+        width: 90%;
+    }
+    #cwmborder {
+        width: 90%;
+    }
+    #cwmlinks {
+        width: 90%;
+    }
+
+    #githubimg {
+        width: 25%;
+    }
+
+    #linkedinimg {
+        width: 25%;
+    }
+    #stackedimg {
+        width: 25%;
+    }
+   
+
+ }
