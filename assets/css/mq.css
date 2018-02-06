@@ -1,4 +1,4 @@
-@media screen and (max-width:990px) {  
+@media screen and (max-width:970px) {  
     #BigContainer{
         width: 100%;
     }
@@ -79,6 +79,128 @@
     #stackedimg {
         width: 25%;
     }
-   
+ }
 
+ @media screen and (max-width:720px) {  
+    #BigContainer{
+        width: 100%;
+    }
+
+    #header {
+        width: 100%;
+    }
+
+    #body {
+        width: 100%;
+    }
+
+    #headerborder {
+        width: 100%;
+         
+    }
+
+    #footer {
+        width: 100%;
+    }
+
+    #footerborder {
+        width: 100%;
+    }
+
+    #logo {
+        width: 100%;
+        margin-left: 0;
+        height: 50%;
+
+    }
+    a{
+        font-size: 12;
+    }
+
+    #importantlinks {
+        width: 100%;
+        background-color: #d2231d;
+        margin-right: 0;
+        height: 50%;
+    }
+
+    #leftbox {
+        width:80%; 
+        height: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        
+    }
+
+    #rightbox {
+        width:80%;
+        height: 25%;
+        margin-right: auto;
+        margin-left: auto;
+        float: none;
+    }
+
+    #leftTopbox {
+        width: 75%;
+    }
+
+    #leftTopborder {
+        width: 75%;
+    }
+
+    #Mebox {
+        width: 75%;
+    }
+
+    .img1 {
+        width: 50%;
+    }
+ 
+    
+    #cwmbox {
+        width: 90%;
+    }
+    #cwmborder {
+        width: 90%;
+    }
+    #cwmlinks {
+        width: 90%;
+        padding: 0%;
+    }
+
+    #githubimg {
+        width: 25%;
+    }
+
+    #linkedinimg {
+        width: 25%;
+    }
+    #stackedimg {
+        width: 25%;
+    }
+
+    #Hangman {
+    
+        width: 20%;
+        height: 20%;
+        position: relative;
+        z-index: 1;
+    }
+    
+    #rpggame{
+    
+        width: 20%;
+        height: 20%;
+        position: relative;
+        z-index: 2;
+    }
+    
+    #RockPaperScissor{
+    
+        width: 20%;
+        height: 20%;
+        position: relative;
+        z-index: 3; 
+    }
  }
